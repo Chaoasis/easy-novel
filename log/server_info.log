@@ -1,0 +1,30 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 20:47:55.207	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 20:47:55.210	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:35	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 20:47:55.211	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:37	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 20:47:55.219	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:82	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 20:47:55.233	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 20:52:22.542	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/api/v1/system/sys_initdb.go:53	前往初始化数据库
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 22:52:22.067	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 22:52:22.072	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 22:52:22.072	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:35	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 22:52:22.073	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:37	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 22:52:22.078	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:82	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 22:52:22.081	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 22:54:40.985	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 22:54:40.985	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:35	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 22:54:40.986	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:37	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 22:54:40.994	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:82	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 22:54:40.997	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 22:54:59.349	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/api/v1/system/sys_initdb.go:53	前往初始化数据库
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 23:00:49.407	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 23:00:49.410	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 23:00:49.410	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:35	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 23:00:49.410	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:37	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 23:00:49.418	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:82	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 23:00:49.428	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 23:22:41.033	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/gorm.go:60	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 23:22:41.036	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 23:22:41.036	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:35	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 23:22:41.036	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:37	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 23:22:41.043	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/initialize/router.go:83	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/12/21 - 23:22:41.058	[34minfo[0m	D:/resource/code/goCode/myCode/2021.12/easy-novel/core/server.go:37	server run success on 	{"address": ":8888"}
