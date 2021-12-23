@@ -31,7 +31,7 @@ func SearchNovel(name string) (dtos []*SearchNovelDto) {
 	m := map[string]string{
 		"searchkey": name,
 	}
-	err := c.Post("https://www.xbiquge.la/modules/article/waps.php", m)
+	c.Post("https://www.xbiquge.la/modules/article/waps.php", m)
 	return
 }
 
